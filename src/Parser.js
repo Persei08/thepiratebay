@@ -68,8 +68,7 @@ export function parsePage(url: string, parseCallback: parseCallbackType, filter:
     const proxyUrls = [
       'https://thepiratebay.org',
       'https://thepiratebay.se',
-      'https://pirateproxy.one',
-      'https://ahoy.one'
+      'https://pirateproxy.one'
     ];
 
     const options = {
